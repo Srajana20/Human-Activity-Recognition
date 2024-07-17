@@ -18,9 +18,6 @@ Development and deployment of an optimized human activity recognition model on l
 The dataset: https://www.kaggle.com/datasets/anshtanwar/adult-subjects-70-95-years-activity-recognition<Br>
 The dataset consists of data from 15 older adults wearing 2 accelerometers for 40 minutes on their right thigh and back. The activities include walking, shuffling, ascending and descending stairs, standing, sitting, and lying.
 
-## System Design
-The system is divided into three modules: development, optimization, and deployment. Each module focuses on different aspects of the model creation and deployment process.
-
 ## Implementation
 ### Development Module
 Development of the initial model using TensorFlow.
