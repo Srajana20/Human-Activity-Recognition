@@ -28,7 +28,7 @@ Deployment of the optimized model on the Adafruit Feather M0 Adalogger and inter
 
 
 ## TensorFlow Lite for Arduino
-To use TensorFlow Lite in your Arduino C code during deployment, you need to follow the instructions provided [here]
+To use TensorFlow Lite in your Arduino C code during deployment, you need to follow the instructions provided here.
 https://forum.arduino.cc/t/why-i-cant-find-the-arduino-tensorflowlite-library-in-library-management/1044070/4.
 
 
